@@ -1,1 +1,1 @@
-from .memory_agent import agent
+from . import agent
